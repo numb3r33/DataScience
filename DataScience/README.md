@@ -1,4 +1,0 @@
-DataScience
-===========
-
-Data Science Projects
