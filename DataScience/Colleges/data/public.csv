@@ -5,7 +5,7 @@
 5,11,University of California Los Angeles,CA,20,69,27128,8510,50171,31553,20229
 6,13,University of Michigan,MI,33,76,24780,10901,53200,39321,27163
 7,5,The College of William and Mary,VA,33,83,29250,15833,50954,37537,24400
-8,4,University of Wisconsin–Madison,WI,51,56,20210,10820,36460,27070,25664
+8,4,University of Wisconsin�Madison,WI,51,56,20210,10820,36460,27070,25664
 9,14,University of Maryland College Park,MD,47,66,21190,12895,41483,33188,25254
 10,18,University of Georgia,GA,55,58,20882,12028,39092,30238,20254
 11,28,University of Washington,WA,55,58,24433,10433,45552,31552,21263
@@ -33,7 +33,7 @@
 33,25,Stony Brook University State University of New York,NY,39,45,20978,13432,34398,26852,23089
 34,36,The University of Texas at Dallas,TX,59,46,22548,14465,42070,33987,20504
 35,45,The University of North Carolina Wilmington,NC,57,52,16629,10941,30657,24969,23575
-36,22,University of Illinois at Urbana–Champaign,IL,62,68,27650,16093,42276,30719,24657
+36,22,University of Illinois at Urbana�Champaign,IL,62,68,27650,16093,42276,30719,24657
 37,57,University of California Davis,CA,41,51,29584,12965,52462,35843,19970
 38,21,Baruch College of the City University of New York,NY,27,39,23433,16306,33453,26326,9949
 39,46,Appalachian State University,NC,66,42,14928,7372,28095,20539,20467
@@ -62,10 +62,10 @@
 62,55,University of Oklahoma,OK,80,35,19341,12372,32115,25146,22140
 63,100,University of California Santa Cruz,CA,52,50,29565,11076,52443,33954,22523
 64,80,Louisiana State University,LA,75,40,21054,11782,38771,29499,21613
-65,61,University of Wisconsin–La Crosse,WI,76,36,15005,9257,22578,16830,26072
+65,61,University of Wisconsin�La Crosse,WI,76,36,15005,9257,22578,16830,26072
 66,67,University of North Florida,FL,53,21,17069,11421,30787,25139,17617
 67,75,Western Carolina University,NC,39,32,15255,9272,25648,19665,20273
-68,64,University of Nebraska–Lincoln,NE,64,32,19081,12316,33001,26236,23951
+68,64,University of Nebraska�Lincoln,NE,64,32,19081,12316,33001,26236,23951
 69,87,University of Science and Arts of Oklahoma,OK,62,27,12300,4735,20340,12775,23964
 70,59,Iowa State University of Science and Technology,IA,85,38,16604,9997,29490,22883,29898
 71,79,University of Massachusetts Amherst,MA,63,59,25900,16461,41455,32016,28999
